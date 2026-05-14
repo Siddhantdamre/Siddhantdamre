@@ -15,14 +15,14 @@ I build AI systems that make uncertainty useful: when to answer, abstain, escala
 
 ## Featured Builds
 
-| Project | Why it matters |
-| --- | --- |
-| [When-the-Model-Says-Holup](https://github.com/Siddhantdamre/When-the-Model-Says-Holup) | A benchmark for whether models can choose between committing, abstaining, and escalating under partial observability. |
-| [Wait-a-minute...who-are-you](https://github.com/Siddhantdamre/Wait-a-minute...who-are-you) | DEIC: hidden-state reasoning, source reliability tracking, diagnostic query budgeting, and adaptive recovery. |
-| [Kathakaar](https://github.com/Siddhantdamre/Kathakaar) | Hybrid cloud/local AI storytelling with RAG, folklore grounding, cinematic generation, and voiceover. |
-| [Cons.trukt](https://github.com/Siddhantdamre/Cons.trukt) | Construction AI prototype that converts blueprint PDFs and permit history into structured task ledgers. |
-| [GSoC-2026-HumanAI-Healing-Stones](https://github.com/Siddhantdamre/GSoC-2026-HumanAI-Healing-Stones) | Point-cloud registration pipeline for reconstructing fragmented 3D cultural artifacts. |
-| [sonish-v2](https://github.com/Siddhantdamre/sonish-v2) | MERN e-commerce system covering products, orders, payments, users, and admin workflows. |
+| Project | Why it matters | Live surface |
+| --- | --- | --- |
+| [When-the-Model-Says-Holup](https://github.com/Siddhantdamre/When-the-Model-Says-Holup) | A benchmark for whether models can choose between committing, abstaining, and escalating under partial observability. | [Demo](https://siddhantdamre.github.io/When-the-Model-Says-Holup/) |
+| [Wait-a-minute...who-are-you](https://github.com/Siddhantdamre/Wait-a-minute...who-are-you) | DEIC: hidden-state reasoning, source reliability tracking, diagnostic query budgeting, and adaptive recovery. | [Demo](https://siddhantdamre.github.io/Wait-a-minute...who-are-you/) |
+| [Kathakaar](https://github.com/Siddhantdamre/Kathakaar) | Hybrid cloud/local AI storytelling with RAG, folklore grounding, cinematic generation, and voiceover. | [Demo](https://siddhantdamre.github.io/Kathakaar/) |
+| [Cons.trukt](https://github.com/Siddhantdamre/Cons.trukt) | Construction AI prototype that converts blueprint PDFs and permit history into structured task ledgers. | [Demo](https://siddhantdamre.github.io/Cons.trukt/) |
+| [GSoC-2026-HumanAI-Healing-Stones](https://github.com/Siddhantdamre/GSoC-2026-HumanAI-Healing-Stones) | Point-cloud registration pipeline for reconstructing fragmented 3D cultural artifacts. | [Demo](https://siddhantdamre.github.io/GSoC-2026-HumanAI-Healing-Stones/) |
+| [sonish-v2](https://github.com/Siddhantdamre/sonish-v2) | MERN e-commerce system covering products, orders, payments, users, and admin workflows. | [Demo](https://siddhantdamre.github.io/sonish-v2/) |
 
 ## Working Stack
 
