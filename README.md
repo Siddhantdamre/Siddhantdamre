@@ -1,44 +1,73 @@
+<div align="center">
+
 # Siddhant Damre
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=0969DA&width=900&lines=AI%2FML+builder+turning+messy+signals+into+usable+systems;Metacognitive+agents%2C+reasoning+benchmarks%2C+and+RAG+workflows;Python%2C+PyTorch%2C+FastAPI%2C+React%2C+TypeScript%2C+Node.js)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=850&color=0969DA&center=true&vCenter=true&width=900&lines=AI%2FML+builder+for+uncertainty-aware+systems;Metacognitive+agents%2C+benchmarks%2C+RAG%2C+and+applied+ML;Turning+research+ideas+into+clickable+product+surfaces)
 
-I build AI systems that make uncertainty useful: when to answer, abstain, escalate, retrieve more context, or recover from a bad assumption.
+**I build AI systems that know when to answer, abstain, escalate, retrieve, or recover.**
 
-## Signal In 30 Seconds
+[![Portfolio Guide](https://img.shields.io/badge/Portfolio_Guide-start_here-0969DA?style=for-the-badge&logo=github)](https://github.com/Siddhantdamre/Siddhantdamre/blob/main/PORTFOLIO.md)
+[![Live Demos](https://img.shields.io/badge/Live_Demos-15_clickable_projects-2DA44E?style=for-the-badge&logo=githubpages)](https://github.com/Siddhantdamre/Siddhantdamre/blob/main/PORTFOLIO.md#live-demo-gallery)
+[![Focus](https://img.shields.io/badge/Focus-AI%2FML_%2B_product_engineering-8250DF?style=for-the-badge)](https://github.com/Siddhantdamre?tab=repositories)
 
-| Area | What I build |
+</div>
+
+---
+
+## Recruiter Snapshot
+
+| Signal | Evidence |
 | --- | --- |
-| Reasoning AI | Benchmarks and prototypes for metacognition, partial observability, and uncertainty-aware decisions. |
-| Applied ML | OCR, RAG, point-cloud, reinforcement-learning, and anomaly-detection experiments. |
-| Product engineering | Full-stack apps with React/TypeScript, Node.js, FastAPI, MongoDB, dashboards, and auth flows. |
-| Public-interest tech | Cultural storytelling, construction planning, healthcare, water quality, and security learning systems. |
+| Original AI thinking | Metacognition benchmarks, bounded inference, abstain/escalate behavior, hidden-state reasoning. |
+| Applied ML range | RAG, OCR, point-cloud registration, anomaly detection, reinforcement learning, document AI. |
+| Product ability | React, TypeScript, Node, Express, FastAPI, MongoDB, dashboards, APIs, deployment surfaces. |
+| Communication | Every public project now has a description, README context, topics, and a clearer role in the portfolio. |
+| Clickability | 15 repositories now have live/demo/homepage surfaces so reviewers can inspect before cloning. |
 
-## Featured Builds
+## Best First
 
-| Project | Why it matters | Live surface |
-| --- | --- | --- |
-| [When-the-Model-Says-Holup](https://github.com/Siddhantdamre/When-the-Model-Says-Holup) | A benchmark for whether models can choose between committing, abstaining, and escalating under partial observability. | [Demo](https://siddhantdamre.github.io/When-the-Model-Says-Holup/) |
-| [Wait-a-minute...who-are-you](https://github.com/Siddhantdamre/Wait-a-minute...who-are-you) | DEIC: hidden-state reasoning, source reliability tracking, diagnostic query budgeting, and adaptive recovery. | [Demo](https://siddhantdamre.github.io/Wait-a-minute...who-are-you/) |
-| [Kathakaar](https://github.com/Siddhantdamre/Kathakaar) | Hybrid cloud/local AI storytelling with RAG, folklore grounding, cinematic generation, and voiceover. | [Demo](https://siddhantdamre.github.io/Kathakaar/) |
-| [Cons.trukt](https://github.com/Siddhantdamre/Cons.trukt) | Construction AI prototype that converts blueprint PDFs and permit history into structured task ledgers. | [Demo](https://siddhantdamre.github.io/Cons.trukt/) |
-| [GSoC-2026-HumanAI-Healing-Stones](https://github.com/Siddhantdamre/GSoC-2026-HumanAI-Healing-Stones) | Point-cloud registration pipeline for reconstructing fragmented 3D cultural artifacts. | [Demo](https://siddhantdamre.github.io/GSoC-2026-HumanAI-Healing-Stones/) |
-| [sonish-v2](https://github.com/Siddhantdamre/sonish-v2) | MERN e-commerce system covering products, orders, payments, users, and admin workflows. | [Demo](https://siddhantdamre.github.io/sonish-v2/) |
+| Project | What it proves | Code | Demo |
+| --- | --- | --- | --- |
+| Holup Benchmark Lab | Evaluation design for commit vs abstain vs escalate behavior in LLMs. | [Repo](https://github.com/Siddhantdamre/When-the-Model-Says-Holup) | [Open](https://siddhantdamre.github.io/When-the-Model-Says-Holup/) |
+| DEIC Executive Inference | Hidden-state belief tracking, source reliability, query budgeting, and recovery. | [Repo](https://github.com/Siddhantdamre/Wait-a-minute...who-are-you) | [Open](https://siddhantdamre.github.io/Wait-a-minute...who-are-you/) |
+| Kathakaar | Cultural AI with grounding, narrative generation, search, maps, and voice direction. | [Repo](https://github.com/Siddhantdamre/Kathakaar) | [Open](https://siddhantdamre.github.io/Kathakaar/) |
+| Cons.trukt | Construction document intelligence, risk analysis, physics logic, and audit trail thinking. | [Repo](https://github.com/Siddhantdamre/Cons.trukt) | [Open](https://siddhantdamre.github.io/Cons.trukt/) |
+| Healing Stones | AI-assisted 3D artifact reconstruction using point clouds and geometric alignment. | [Repo](https://github.com/Siddhantdamre/GSoC-2026-HumanAI-Healing-Stones) | [Open](https://siddhantdamre.github.io/GSoC-2026-HumanAI-Healing-Stones/) |
+| Sonish v2 | Full-stack MERN commerce app with frontend, backend, security baseline, and deployment path. | [Repo](https://github.com/Siddhantdamre/sonish-v2) | [Open](https://siddhantdamre.github.io/sonish-v2/) |
+
+## Portfolio Map
+
+| Area | Projects |
+| --- | --- |
+| Metacognition and reasoning | [Holup](https://github.com/Siddhantdamre/When-the-Model-Says-Holup), [DEIC](https://github.com/Siddhantdamre/Wait-a-minute...who-are-you), [SAAMC](https://github.com/Siddhantdamre/SAAMC) |
+| Applied AI products | [Kathakaar](https://github.com/Siddhantdamre/Kathakaar), [Cons.trukt](https://github.com/Siddhantdamre/Cons.trukt), [SketchAI](https://github.com/Siddhantdamre/sketchAI), [AppleO](https://github.com/Siddhantdamre/AppleO) |
+| ML and data systems | [Water.DRIE](https://github.com/Siddhantdamre/Water.DRIE), [Net.AI](https://github.com/Siddhantdamre/Net.AI), [threat_dat](https://github.com/Siddhantdamre/threat_dat), [clearWattson](https://github.com/Siddhantdamre/clearWattson) |
+| Product engineering | [sonish-v2](https://github.com/Siddhantdamre/sonish-v2), [Sid-s_terminal](https://github.com/Siddhantdamre/Sid-s_terminal), [accelerated_framework](https://github.com/Siddhantdamre/accelerated_framework) |
 
 ## Working Stack
 
-`Python` `PyTorch` `FastAPI` `Jupyter` `React` `TypeScript` `JavaScript` `Node.js` `MongoDB` `OCR` `RAG` `Computer Vision` `Reinforcement Learning` `Cybersecurity`
+`Python` `PyTorch` `FastAPI` `Jupyter` `React` `TypeScript` `JavaScript` `Node.js` `Express` `MongoDB` `OCR` `RAG` `Computer Vision` `Reinforcement Learning` `Cybersecurity`
 
 ## GitHub Snapshot
 
-<p>
+<p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Siddhantdamre&show_icons=true&hide_title=true&rank_icon=github&theme=transparent&hide_border=true" alt="Siddhant Damre GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhantdamre&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
 </p>
 
-## Current Direction
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddhantdamre&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" />
+</p>
 
-I am sharpening my work around research-to-product AI systems: cleaner evaluation harnesses, reproducible demos, stronger documentation, and deployment-ready interfaces.
+## What I Am Sharpening Now
+
+| Track | Next visible upgrade |
+| --- | --- |
+| AI evaluation | Public leaderboards, richer model comparison dashboards, downloadable benchmark artifacts. |
+| AI demos | Hugging Face Spaces / Streamlit / Gradio interfaces for notebook-heavy ML projects. |
+| Full-stack systems | Hosted frontend + backend demos with seeded data and demo credentials. |
+| Portfolio polish | Screenshots, architecture diagrams, result cards, and tighter README storytelling. |
 
 ## Open To
 
-AI/ML internships, research engineering, applied LLM evaluation, agent systems, public-interest AI, and product roles where prototypes need to become real tools.
+AI/ML internships, research engineering, applied LLM evaluation, agent systems, public-interest AI, and product engineering roles where prototypes need to become real tools.
